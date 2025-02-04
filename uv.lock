@@ -1,0 +1,3 @@
+git add uv.lock
+git commit -m "Добавлен lockfile для UV"
+git push
